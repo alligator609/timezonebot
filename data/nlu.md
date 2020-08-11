@@ -64,19 +64,19 @@
 - time?
 
 ## intent:find_time_zone_for_location
-- what is the time zone of London?
-- time zone of Lisbon?
-- do you know the time zone of Berlin?
-- i need to know the time zone of Mumbai.
-- Oslo time zone
-- what is the time in Prague
+- what is the time zone of [London](city)?
+- time zone of [Lisbon](city)?
+- do you know the time zone of [Berlin](city)?
+- i need to know the time zone of [Mumbai](city).
+- [Oslo](city) time zone
+- what is the time in [Prague](city)
 
 ## intent:city_info
-- London
-- Mumbai
-- Lisbon
-- Dhaka
-- Oslo
+- [London](city)
+- [Mumbai](city)
+- [Lisbon](city)
+- [Dhaka](city)
+- [Oslo](city)
 
 ## intent:thanks
 - tahnk you
