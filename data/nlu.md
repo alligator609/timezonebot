@@ -54,3 +54,32 @@
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
+
+## intent:find_time_zone
+- can you tell the time?
+- could you tell me the time?
+- i need you to find a time zone.
+- can you find me a time zone?
+- what time is it?
+- time?
+
+## intent:find_time_zone_for_location
+- what is the time zone of London?
+- time zone of Lisbon?
+- do you know the time zone of Berlin?
+- i need to know the time zone of Mumbai.
+- Oslo time zone
+- what is the time in Prague
+
+## intent:city_info
+- London
+- Mumbai
+- Lisbon
+- Dhaka
+- Oslo
+
+## intent:thanks
+- tahnk you
+- thanx
+- thanks
+- great, Thanks

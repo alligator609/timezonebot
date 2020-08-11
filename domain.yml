@@ -6,6 +6,10 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
+  - find_time_zone
+  - find_time_zone_for_location
+  - city_info
+  - thanks
 
 responses:
   utter_greet:
@@ -26,6 +30,15 @@ responses:
 
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
+
+  utter_ask_location:
+  - text: "which city do you need the time zone"
+
+  utter_finding_time_zone:
+  - text: "Ok, give me a second to look in"
+
+  utter_you_are_welcome:
+  - text: "You are welcome"
 
 session_config:
   session_expiration_time: 60
