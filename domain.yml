@@ -10,6 +10,8 @@ intents:
   - find_time_zone_for_location
   - city_info
   - thanks
+actions:
+  - action_show_time_zone
 entities:
   - city
 slots:
